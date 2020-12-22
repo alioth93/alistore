@@ -1,2 +1,2 @@
-# alistore
+# alistor's
 items store
